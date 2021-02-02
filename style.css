@@ -12,7 +12,7 @@ body{
 }
 .box1 h1{
     font-family: 'Black Han Sans', sans-serif;
-    color: white;
+    color: red;
     float: left;
     padding-left: 50px;
 }
